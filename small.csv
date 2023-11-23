@@ -1,0 +1,53 @@
+name,state,region
+Alabama,AL,SOUTH
+Alaska,AK,WEST
+Arizona,AZ,WEST
+Arkansas,AR,SOUTH
+California,CA,WEST
+Colorado,CO,WEST
+Connecticut,CT,NORTHEAST
+Delaware,DE,SOUTH
+District of Columbia,DC,SOUTH
+orida,FL,SOUTH
+Georgia,GA,SOUTH
+Hawaii,HI,WEST
+Idaho,ID,WEST
+Illinois,IL,MIDWEST
+Indiana,IN,MIDWEST
+Iowa,IA,MIDWEST
+Kansas,KS,MIDWEST
+Kentucky,KY,SOUTH
+Louisiana,LA,SOUTH
+Maine,ME,NORTHEAST
+yland,MD,SOUTH
+Massachusetts,MA,NORTHEAST
+Michigan,MI,MIDWEST
+Minnesota,MN,MIDWEST
+Mississippi,MS,SOUTH
+Missouri,MO,MIDWEST
+Montana,MT,WEST
+Nebraska,NE,MIDWEST
+Nevada,NV,WEST
+New Hampshire,NH,NORTHEAST
+New Jersey,NJ,NORTHEAST
+New Mexico,NM,WEST
+New York,NY,NORTHEAST
+North Carolina,NC,SOUTH
+North Dakota,ND,MIDWEST
+Ohio,OH,MIDWEST
+Oklahoma,OK,SOUTH
+Oregon,OR,WEST
+Pennsylvania,PA,NORTHEAST
+Rhode Island,RI,NORTHEAST
+South Carolina,SC,SOUTH
+South Dakota,SD,MIDWEST
+Tennessee,TN,SOUTH
+Texas,TX,SOUTH
+Utah,UT,WEST
+Vermont,VT,NORTHEAST
+Virginia,VA,SOUTH
+Washington,WA,WEST
+West Virginia,WV,SOUTH
+Wisconsin,WI,MIDWEST
+Wyoming,WY,WEST
+Puerto Rico,PR,
